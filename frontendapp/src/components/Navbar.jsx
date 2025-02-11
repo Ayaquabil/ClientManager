@@ -7,7 +7,7 @@ export default function NavBar({ onOpen, onSearch}) {
 
     return (
         <>
-        <div className="navbar bg-base-100 p-4">
+        <div className="navbar bg-base-200 p-4">
         <div className="navbar-start">
            
             <a className="btn btn-ghost text-xl">ClientManager</a>
